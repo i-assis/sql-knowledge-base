@@ -1,10 +1,11 @@
 ## This repository is helpful whenever you need:
 
-### Template of databases containing tables, relationships, views and data that could be used as the building block of a Point of Sale system.
-### Everything set up using command line statements. Preferrably, no GUI is to be used.
+* Template of databases containing tables, relationships, views and data that could be used as the building block of a Point of Sale system.
 
-### Emphasis on how to view and manipulate data into different areas without changing an existing database schema.
+* Everything set up using command line statements. Preferrably, no GUI is to be used.
 
-### Emphasis on how to view, manipulate and create meningful relationship between tables using command line SQL.
+* Emphasis on how to view and manipulate data into different areas without changing an existing database schema.
 
-### Templates using the MySQL Community Sever distribuition, which is absolutely free.
+* Emphasis on how to view, manipulate and create meningful relationship between tables using command line SQL.
+
+* Templates using the MySQL Community Sever distribuition, which is absolutely free.
